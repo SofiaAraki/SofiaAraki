@@ -1,30 +1,72 @@
-## Olá, eu sou Sofia Araki! 👋
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?color=A855F7&size=28&center=true&vCenter=true&width=800&lines=Olá,+eu+sou+Sofia+Araki;Desenvolvedora+Full+Stack;Apaixonada+por+tecnologia+e+inovação" />
+</p>
 
-### 🚀 Sobre Mim
-Sou estudante de **Sistemas de Informação**, apaixonada por tecnologia e em constante aprendizado. Atualmente, foco no desenvolvimento de projetos com **JavaScript**, **Python** e **PHP**. Meu objetivo é explorar novas tecnologias e contribuir com projetos inovadores.
+Atualmente trabalho com desenvolvimento de sistemas institucionais, automação de processos e construção de aplicações web modernas.
 
-### 🤖 Linguagens e Tecnologias
-<div style="display: inline_block; margin-top: 10px;">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="filter: grayscale(100%);">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="filter: grayscale(100%);">
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="filter: grayscale(100%);">
-  <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" style="filter: grayscale(100%);">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="filter: grayscale(100%);">
-  <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" style="filter: grayscale(100%);">
+---
+
+## 🚀 Sobre mim
+
+- 🎓 Bacharelado em **Sistemas de Informação - FAFRAM**
+- 💼 Atuo com **desenvolvimento e manutenção de sistemas institucionais**
+- ⚙️ Experiência com **automação de processos administrativos**
+- 🏛️ Presidente do **Diretório Acadêmico de Sistemas de Informação**
+- 🧠 Sempre estudando novas tecnologias e arquitetura de software
+
+---
+
+## 🧠 Tecnologias e Ferramentas
+
+### Front-end
+<div style="display: inline_block">
+<img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+<img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+<img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
+<img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg">
 </div>
 
-### 📊 Estatísticas
-
-<div align="center">
-  <img 
-    alt="GitHub Stats" 
-    height="200" 
-    style="margin-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=SofiaAraki&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-  <img 
-    alt="Linguagens Mais Usadas" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SofiaAraki&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+### Back-end
+<div style="display: inline_block">
+<img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+<img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+<img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
 </div>
+
+### Banco de Dados
+<div style="display: inline_block">
+<img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+<img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+</div>
+
+### DevOps e Ferramentas
+<div style="display: inline_block">
+<img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+<img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+</div>
+
+---
+
+## 🐍 Contribuições
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/SofiaAraki/SofiaAraki/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/SofiaAraki/SofiaAraki/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/SofiaAraki/SofiaAraki/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+
+---
+
+⭐ Sempre aberta a colaborar em projetos e aprender novas tecnologias.
